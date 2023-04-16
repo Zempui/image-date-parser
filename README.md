@@ -1,5 +1,5 @@
 # image-date-parser
-Software that changes metadata contained in the images of a specified folder depending on their names. The naming format must be 'IMG-YYYYMMDD-WAXXXX.jpg', which is the standart in some mobile phones.
+Software that changes metadata contained in the images of a specified folder depending on their names. The naming format must be `IMG-YYYYMMDD-WAXXXX.jpg`, which is the standart in some mobile phones.
 ## Usage
 Simply clone the repository and execute the following sentence while located inside of the folder:
 ```bash
